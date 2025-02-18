@@ -14,8 +14,3 @@ This project aims to predict IMDb movie review ratings on a scale of 1 to 5 usin
 The dataset used is **IMDb Dataset of 50K Movie Reviews**, available on Kaggle:  
 [IMDb Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
 
-## 🛠 Installation & Setup
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/Hari-Narayana-Rath/movie-out-of-5.git
-cd movie-out-of-5
